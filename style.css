@@ -151,7 +151,7 @@ label{white-space:nowrap}
     background: #666;font-weight: normal;}
 .links-txt{margin-top:0px;padding-bottom:20px}
 .text-center{text-align:center}
-.links-title{line-height:45px;height:45px;font-size:18px;color:#333;background:url(../images/bg_friendlink.jpg) center center no-repeat}
+.links-title{line-height:45px;height:45px;font-size:18px;color:#333;background:url(bg_friendlink.jpg) center center no-repeat}
 .list-inline{padding-left:0;margin-left:-5px;list-style:none;text-align: left;}
 .list-inline>li{display:inline-block;padding-right:5px;padding-left:5px}
 .links-txt li{line-height:30px;color:#505050}
@@ -425,7 +425,7 @@ input.button{color:#FFF;font-size:14px;width:100px;height:32px;background:#3a6ea
 .tc{text-align:center}
 .jiac{font-weight:700}
 .cur{cursor:pointer}
-#feedback,#scrollUp,.qr_tool{background-image:url(../images/backgrounds.32.png)}
+#feedback,#scrollUp,.qr_tool{background-image:url(backgrounds.32.png)}
 .bottom_tools{position:fixed;z-index:999;right:20px;bottom:40px}
 .bottom_tools>*{font:0/0 a;display:block;margin-top:5px;color:transparent;border:0;background-color:transparent;text-shadow:none}
 .qr_img{position:absolute;top:-127px;left:-176px;display:none;max-width:173px}
